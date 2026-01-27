@@ -7,7 +7,7 @@ For project files, and documentation for CSIS 4495
 
 | Name                              | Student ID  | Email                                      |
 |-----------------------------------|-------------|--------------------------------------------|
-| Allwyn Mascarenhas | 300381351 | @student.douglascollege.ca |
+| Allwyn Mascarenhas | 300381351 | mascarenhasa@student.douglascollege.ca |
 | Thilan Kavindu Gunarathna Udahage Don | 300398798 | udahagedont@student.douglascollege.ca |
 
 ---
