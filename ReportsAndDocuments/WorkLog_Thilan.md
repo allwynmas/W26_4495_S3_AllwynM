@@ -1,3 +1,18 @@
-| Date         | Hours | Description of Work                              |
-|--------------|-------|--------------------------------------------------|
-
+| Date       | Number of Hours | Description of Work |
+|------------|------------------|----------------------|
+| 20th Jan   | 1                | Participated in the instructor‑led project consultation. Discussed feasibility of building an intentionally vulnerable Spring Boot application and clarified expectations for the proposal. |
+| 20th Jan   | 1                | Conducted research on existing vulnerable web applications (DVWA, WebGoat, Juice Shop). Identified gaps such as outdated frameworks and lack of structured guidance. Documented findings for proposal use. |
+| 21st Jan   | 1.5              | Co‑drafted the pre‑proposal for instructor approval. Summarized research findings and outlined the initial problem definition, research questions, and project scope. |
+| 22nd Jan   | 1                | Reviewed OWASP Top 10 documentation to determine which vulnerabilities would be most suitable for embedding into a Spring Boot MVC application. Took notes on implementation patterns and potential risks. |
+| 23rd Jan   | 1                | Attended scheduled team meeting. Discussed proposal structure, division of responsibilities, and GitHub setup tasks. |
+| 23rd Jan   | 1.5              | Created the GitHub repository structure following course requirements. Added folders (ReportsAndDocuments, Implementation, Misc), created worklog.md and deliverables.md, updated README. |
+| 24th Jan   | 2                | Collaborated with Allwyn on drafting the proposal. Focused on introduction, research problem framing, and practical contributions. |
+| 25th Jan   | 2                | Attended scheduled Saturday team meeting. Reviewed each section for coherence, corrected structural inconsistencies, and ensured that the introduction, methodology, and expected results flowed logically. Added missing justification points and improved the clarity of research questions. |
+| 26th Jan   | 1                | Conducted a full review of the proposal draft to ensure consistency between the problem statement, methodology, and timeline. Verified that all sections met rubric requirements. Checked formatting, corrected grammar. Prepared the document for submission. |
+| 27th Jan   | 1                | Participated in in‑class proposal check‑in. Instructor requested that we justify the project by referencing data that highlights the need for practical security training. Reviewed industry reports, including a Fortinet article noting that many security professionals lack hands‑on experience with real vulnerabilities. Added this evidence to the proposal to strengthen the problem motivation. |
+| 31st Jan   | 1                | Attended scheduled Friday team meeting. Discussed Week 5 tasks, including setting up the Spring Boot skeleton, configuring H2 database, and planning the first vulnerability implementation. |
+| 1st Feb    | 1.5              | Attended scheduled Saturday team meeting. Reviewed architecture outline and refined user flows. Finalized vulnerability placement strategy for SQLi, XSS, and Broken Auth. |
+| 2nd Feb    | 1                | Updated GitHub documentation to reflect architecture planning. Added notes on vulnerability placement strategy and initial implementation plan. |
+| 4th Feb    | 1.5              | Set up local Spring Boot development environment. Verified dependencies, created initial project structure, and tested basic application startup. |
+| 5th Feb    | 1                | Conducted research on SQL Injection patterns in Spring Boot applications. Reviewed insecure repository usage examples and documented potential implementation approaches. |
+| 6th Feb    | 1                | Drafted initial content for Progress Report 1, summarizing research, architecture planning, and early setup work completed so far. |
