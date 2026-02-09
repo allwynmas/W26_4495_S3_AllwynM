@@ -12,7 +12,7 @@
 | 27th Jan   | 1                | Participated in in‑class proposal check‑in. Instructor requested that we justify the project by referencing data that highlights the need for practical security training. Reviewed industry reports, including a Fortinet article noting that many security professionals lack hands‑on experience with real vulnerabilities. Added this evidence to the proposal to strengthen the problem motivation. |
 | 31st Jan   | 1                | Attended scheduled Friday team meeting. Discussed Week 5 tasks, including setting up the Spring Boot skeleton, configuring H2 database, and planning the first vulnerability implementation. |
 | 1st Feb    | 1.5              | Attended scheduled Saturday team meeting. Reviewed architecture outline and refined user flows. Finalized vulnerability placement strategy for SQLi, XSS, and Broken Auth. |
-| 2nd Feb    | 1                | Updated GitHub documentation to reflect architecture planning. Added notes on vulnerability placement strategy and initial implementation plan. |
+| 2nd Feb    | 1                | Updated GitHub documentation to reflect implementation planning. |
 | 4th Feb    | 1.5              | Set up local Spring Boot development environment. Verified dependencies, created initial project structure, and tested basic application startup. |
 | 5th Feb    | 1                | Conducted research on SQL Injection patterns in Spring Boot applications. Reviewed insecure repository usage examples and documented potential implementation approaches. |
 | 6th Feb    | 1                | Drafted initial content for Progress Report 1, summarizing research, architecture planning, and early setup work completed so far. |
