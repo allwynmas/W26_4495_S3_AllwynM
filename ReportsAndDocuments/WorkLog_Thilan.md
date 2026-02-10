@@ -16,3 +16,6 @@
 | 4th Feb    | 1.5              | Set up local Spring Boot development environment. Verified dependencies, created initial project structure, and tested basic application startup. |
 | 5th Feb    | 1                | Conducted research on SQL Injection patterns in Spring Boot applications. Reviewed insecure repository usage examples and documented potential implementation approaches. |
 | 6th Feb    | 1                | Drafted initial content for Progress Report 1, summarizing research, architecture planning, and early setup work completed so far. |
+| 7th Feb    | 1                | Added implementation_plan.md, vulnerability_placement.md to the GitHub repository. Documented planned workflows and frontend responsibilities. |
+| 8th Feb    | 1.5                | Reviewed the Spring Boot project structure and verified local environment functionality. Updated work logs and prepared remaining content for Progress Report 1. |
+| 9th Feb    | 1                | Finalized and formatted Progress Report 1. Checked in all documentation files and uploaded the completed report to the GitHub repository under ReportsAndDocuments. |
