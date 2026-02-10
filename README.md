@@ -17,8 +17,8 @@ Our platform integrates vulnerabilities into realistic workflows, helping learne
 
 | Name                              | Student ID  | Email                                      |
 |-----------------------------------|-------------|--------------------------------------------|
-| Allwyn Mascarenhas | 300381351 | mascarenhasa@student.douglascollege.ca |
-| Thilan Kavindu Gunarathna Udahage Don | 300398798 | udahagedont@student.douglascollege.ca |
+| Allwyn Mascarenhas | 300381XXX | mascarenhasa@student.XXX |
+| Thilan Kavindu Gunarathna Udahage Don | 30039XXXX | udahagedont@student.XXX |
 
 ---
 
