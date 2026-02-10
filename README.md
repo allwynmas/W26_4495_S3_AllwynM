@@ -21,3 +21,13 @@ Our platform integrates vulnerabilities into realistic workflows, helping learne
 | Thilan Kavindu Gunarathna Udahage Don | 300398798 | udahagedont@student.douglascollege.ca |
 
 ---
+
+
+
+Features and GUI
+
+
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/35d12e07-4a26-4115-beb3-7f69e16c7060" />
+
+
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/5563558d-c21f-4248-8e32-2dd873398870" />
