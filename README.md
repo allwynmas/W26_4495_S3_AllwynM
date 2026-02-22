@@ -22,12 +22,40 @@ Our platform integrates vulnerabilities into realistic workflows, helping learne
 
 ---
 
+## 📥 Installation Instructions
 
+This project is provided as a **ZIP file** inside the repository under: /Implementation
 
-Features and GUI
+### **1. Download the ZIP File**
+1. Navigate to the `Implementation` folder in the repository  
+2. Download the firstdemo ZIP file  
+3. Extract it anywhere on your computer
 
+---
 
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/35d12e07-4a26-4115-beb3-7f69e16c7060" />
+## 🧰 Opening the Project in IntelliJ IDEA
 
+### **2. Open IntelliJ IDEA**
+- Launch IntelliJ IDEA  
+- Click **File → Open**  
+- Select the extracted project folder  
+- IntelliJ will automatically detect it as a **Maven** Spring Boot project  
+- Wait for IntelliJ to finish indexing and downloading dependencies (this happens automatically)
 
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/5563558d-c21f-4248-8e32-2dd873398870" />
+---
+
+## ▶️ Running the Application
+
+### **3. Run the Spring Boot Application**
+1. In the IntelliJ Project Explorer, open: \firstdemo\src\main\java\com\akmlab\firstdemo\FirstdemoApplication.java
+2. Click the **green Run button** next to the `main` method  
+3. IntelliJ will start the embedded server (Tomcat)  
+4. Once running, you will see: Started FirstdemoApplication in X seconds in the log at the bottom
+ 
+This means the application is ready.
+
+---
+
+## 🌐 Accessing the Demo
+
+Open your browser and go to: http://localhost:8081
