@@ -16,3 +16,14 @@
 | 4th Feb    | 1.5              | Completed Spring Boot skeleton setup. Verified project builds successfully, configured H2 database, and tested basic backend routing. |
 | 5th Feb    | 1                | Conducted deeper research on SQL Injection exploitation in Java applications. Reviewed insecure query patterns and prepared notes for implementing the first vulnerability. |
 | 6th Feb    | 1                | Drafted backend‑focused content for Progress Report 1, summarizing architecture planning, backend setup, and SQL Injection research. |
+| 7th Feb | 2 | Began implementing the SQL Injection (SQLi) module. Set up the `/sql-injection` controller, added request parameter handling, and prepared backend structure for safe and vulnerable query execution. |
+| 9th Feb | 2 | Implemented the vulnerable SQL query using string concatenation. Verified that SQLi payloads produced unsafe behavior and returned unintended results. |
+| 10th Feb | 1.5 | Implemented the safe SQL query using prepared statements. Ensured parameterized queries blocked injection attempts and added backend logic to toggle between safe and vulnerable modes. |
+| 13th Feb | 1 | Weekly team meeting. Reviewed SQLi progress, discussed RXSS routing improvements, and planned controller refactoring for better modularity. |
+| 14th Feb | 1 | Continued team meeting. Finalized SQLi backend logic and confirmed the structure for GET‑based reflection in the upcoming RXSS controller. |
+| 15th Feb | 1 | Added backend support for executed SQL query display and improved error handling for malformed SQL payloads. Ensured the application returned meaningful error messages without breaking. |
+| 17th Feb | 1 | Created a dedicated `RxssController` to separate XSS logic from other modules. Cleaned up routing and ensured proper GET‑based reflection behavior. |
+| 18th Feb | 1 | Adjusted the CSP header from `Content-Security-Policy` to `Content-Security-Policy-Report-Only` to allow XSS payload execution for demonstration while still logging violations. |
+| 20th Feb | 1 | Performed integration testing for SQLi and RXSS modules. Verified backend compatibility with UI components, dropdown behavior, and scroll helper functionality. |
+| 21st Feb | 1.5 | Wrote backend sections of SQLi implementation details and RXSS controller explanation. Participated in recording the midterm demonstration video. Uploaded updated code, the completed midterm report, and the demonstration video to the GitHub repository.  |
+
