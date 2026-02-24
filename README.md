@@ -59,3 +59,5 @@ This means the application is ready.
 ## 🌐 Accessing the Demo
 
 Open your browser and go to: http://localhost:8081
+Username: allwyn
+Password: akmlab
