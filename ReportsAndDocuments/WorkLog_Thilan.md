@@ -28,6 +28,15 @@
 | 18th Feb | 1.5 | Integrated the dropdown into the SQLi UI and refined spacing, typography, and card layout for both modules. Updated routing from `/xss` to `/rxss`. |
 | 20th Feb | 1 | Wrote midterm report sections covering RXSS implementation, UI/UX design decisions, scroll helper functionality, and educational rationale. Prepared screenshots and code snippets for inclusion. |
 | 21st Feb | 3 | Finalized the midterm report, added missing sections, formatted tables, and committed the completed code to the GitHub repository. Participated in recording the midterm demonstration video. |
+| Feb 22  | 1                | Reviewed the current progress of the SQL Injection and XSS modules and planned the next steps for the upcoming implementation phase. Outlined the remaining tasks for the original design approach. |
+| Feb 23  | 2                | Began initial work on the Stored XSS module as planned. Set up the basic page structure, reviewed sanitization approaches, and drafted the initial UI layout for user input and output rendering. |
+| Feb 24  | 1.5              | Began redesigning the SQL Injection module based on instructor feedback. Planned a three‑level challenge structure (OR injection, numeric injection, blind boolean SQLi) and drafted the new UI layout using Bootstrap accordion. |
+| Feb 25  | 2                | Removed old SQL Injection demo logic and UI. Implemented the new `SqlInjectionController` with AJAX endpoints for level validation. Started integrating progress tracking logic into the backend. |
+| Feb 27  | 2.5              | Implemented `SqlInjectionChallengeService` with payload validation logic for each level. Added pattern matching for OR, numeric, and boolean SQLi. |
+| Feb 28  | 2                | Added Thymeleaf conditions to lock/unlock levels and experimented with different approaches for hiding Level 2 and Level 3 until prerequisites are completed. Implemented partial UI logic but still working on fully hiding the next challenges. Merged the UI behavior refinements originally planned for Mar 1 into this session. |
+| Feb 29  | 1                | Fixed routing issue causing 404 errors (`/sql-injection` vs `/sql-injection/sqli`). Ensured correct template resolution and verified controller mappings. |
+| Mar 2   | 1                | Completed end‑to‑end testing of the challenge flow. Verified progress persistence, UI behavior, unlock logic, and feedback messages. Completed the Progress Report 2 documentation and cleaned up code formatting. |
+
 
 
 
