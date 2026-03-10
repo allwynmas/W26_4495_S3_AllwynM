@@ -36,7 +36,13 @@
 | Feb 28  | 2                | Added Thymeleaf conditions to lock/unlock levels and experimented with different approaches for hiding Level 2 and Level 3 until prerequisites are completed. Implemented partial UI logic but still working on fully hiding the next challenges. Merged the UI behavior refinements originally planned for Mar 1 into this session. |
 | Feb 29  | 1                | Fixed routing issue causing 404 errors (`/sql-injection` vs `/sql-injection/sqli`). Ensured correct template resolution and verified controller mappings. |
 | Mar 2   | 1                | Completed end‑to‑end testing of the challenge flow. Verified progress persistence, UI behavior, unlock logic, and feedback messages. Completed the Progress Report 2 documentation and cleaned up code formatting. |
-
+| Mar 3 | 1 | Met with the instructor for a project check-in. She provided feedback and suggested adding a user profile progress tracker to the platform, allowing users to see which challenges they have completed. Discussed how this could integrate with the existing ChallengeProgress entity. |
+| Mar 4 | 1.5 | Met with Allwyn to discuss new feature ideas following the instructor meeting. Together we conceptualized a "Why It Worked" Explainer feature - a post-challenge explanation section that breaks down why a given payload succeeded, reinforcing the learning outcome for each vulnerability. |
+| Mar 6 | 1 | Emailed the instructor with a brief description and mockup of the "Why It Worked" Explainer concept. Received approval to proceed with the feature as part of the platform. |
+| Mar 7 | 1.5 | Friday team meeting with Allwyn. Reviewed homepage progress, discussed the SQLi level-hiding fix approach, and planned next steps for both the user profile progress tracker and the "Why It Worked" Explainer features. |
+| Mar 8 | 1.5 | Saturday team meeting with Allwyn. Continued discussion on the user profile progress tracker design and the "Why It Worked" Explainer structure. Agreed on implementation approach and divided upcoming tasks. |
+| Mar 8 | 2 | Worked on the homepage redesign. Updated the Thymeleaf index.html template with a hero section, Bootstrap challenge cards, and a features section. Also resumed work on the SQLi level-hiding fix - investigated using server-side th:if conditions to fully hide Level 2 and Level 3 from the rendered HTML until prerequisites are met. |
+| Mar 9 | 2 | Continued homepage refinements and completed the SQLi level-hiding implementation. Updated SqlInjectionController to pass per-level completion flags to the Thymeleaf model and updated sqli.html accordingly. Tested all three challenge levels end-to-end. Finalized and checked in all files for Progress Report 3. |
 
 
 
