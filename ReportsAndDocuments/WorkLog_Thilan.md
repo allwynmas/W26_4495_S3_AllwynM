@@ -1,7 +1,7 @@
 | Date       | Number of Hours | Description of Work |
 |------------|------------------|----------------------|
-| 20th Jan   | 1                | Participated in the instructor‑led project consultation. Discussed feasibility of building an intentionally vulnerable Spring Boot application and clarified expectations for the proposal. |
-| 20th Jan   | 1                | Conducted research on existing vulnerable web applications (DVWA, WebGoat, Juice Shop). Identified gaps such as outdated frameworks and lack of structured guidance. Documented findings for proposal use. |
+| 20th Jan   | 1 | Participated in the instructor‑led project consultation. Discussed feasibility of building an intentionally vulnerable Spring Boot application and clarified expectations for the proposal. |
+| 20th Jan   | 1 | Conducted research on existing vulnerable web applications (DVWA, WebGoat, Juice Shop). Identified gaps such as outdated frameworks and lack of structured guidance. Documented findings for proposal use. |
 | 21st Jan   | 1.5 | Co‑drafted the pre‑proposal for instructor approval. Summarized research findings and outlined the initial problem definition, research questions, and project scope. |
 | 22nd Jan   | 1 | Reviewed OWASP Top 10 documentation to determine which vulnerabilities would be most suitable for embedding into a Spring Boot MVC application. Took notes on implementation patterns and potential risks. |
 | 23rd Jan   | 1 | Attended scheduled team meeting. Discussed proposal structure, division of responsibilities, and GitHub setup tasks. |
