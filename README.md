@@ -28,7 +28,7 @@ This project is provided as a **ZIP file** inside the repository under: /Impleme
 
 ### **1. Download the ZIP File**
 1. Navigate to the `Implementation` folder in the repository  
-2. Download the firstdemo ZIP file  
+2. Download the idb ZIP file  
 3. Extract it anywhere on your computer
 
 ---
@@ -47,10 +47,10 @@ This project is provided as a **ZIP file** inside the repository under: /Impleme
 ## ▶️ Running the Application
 
 ### **3. Run the Spring Boot Application**
-1. In the IntelliJ Project Explorer, open: \firstdemo\src\main\java\com\akmlab\firstdemo\FirstdemoApplication.java
+1. In the IntelliJ Project Explorer, open: \ibd\src\main\java\com\akmlab\ibd\IbdApplication.java
 2. Click the **green Run button** next to the `main` method  
 3. IntelliJ will start the embedded server (Tomcat)  
-4. Once running, you will see: Started FirstdemoApplication in X seconds in the log at the bottom
+4. Once running, you will see: Started IbdApplication in X seconds in the log at the bottom
  
 This means the application is ready.
 
