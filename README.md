@@ -21,8 +21,10 @@ Our platform integrates vulnerabilities into realistic workflows, helping learne
 | Thilan Kavindu Gunarathna Udahage Don | 30039XXXX | udahagedont@student.XXX |
 
 ---
+## Live Deployment Access
+For immediate access without local installation, the fully functional platform is hosted live on Google Cloud Run and can be accessed at: https://ibd-1068343979302.us-central1.run.app/
 
-## 📥 Installation Instructions
+## 📥 Local Installation Instructions
 
 This project is provided as a **ZIP file** inside the repository under: /Implementation
 
