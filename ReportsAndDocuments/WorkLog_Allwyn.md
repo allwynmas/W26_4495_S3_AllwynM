@@ -42,3 +42,7 @@
 | 1st April | 2 | UAT testing with team. |
 | 2nd April | 2 | Final report write up and editing. |
 | 3rd April | 2 | Cloud hosting research and deployment. |
+| 4th April | 2 | Performed UAT testing with Thilan. Focused on broken authentication and IDOR modules. Verified all challenge levels, progress tracking, and Explainer sections function correctly end-to-end. |
+| 5th April | 2 | Successfully deployed the application to Google Cloud Run. Configured the containerized Spring Boot application, set up the Cloud Run service, and verified the platform is accessible via the public URL. Updated the README with the live deployment link. |
+| 7th April | 2 | Updated the GitHub repository — ensured all reports and documents are checked into the main branch under ReportsAndDocuments. Verified the final codebase is committed, cleaned up stale branches, and confirmed the README reflects the final deployed state of the project. |
+| 8th April | 2 | Reviewed and rehearsed the presentation slides. Confirmed demo responsibilities with Thilan and prepared responses for anticipated defense questions, particularly around broken authentication and the Google Cloud Run deployment. |
