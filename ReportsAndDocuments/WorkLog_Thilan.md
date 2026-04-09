@@ -58,5 +58,17 @@
 | Mar 20 | 2 | Friday team meeting with Allwyn. Reviewed CSRF and IDOR implementations, discussed Allwyn's work this week, and aligned on final integration and polish tasks. Reviewed the updated homepage and OWASP page together. |
 | Mar 21 | 1.5 | Saturday team meeting with Allwyn. Performed a full walkthrough of the platform, identified remaining bugs, and divided final polish tasks. Updated the homepage layout, refreshed the OWASP reference page with accurate descriptions for all implemented vulnerability types, and updated the shared layout navigation to include links to the CSRF and IDOR modules. |
 | Mar 23 | 2 | Completed final bug fixes across modules. Performed end-to-end testing of all challenge modules, Explainer sections, and the profile tracker. Finalized and checked in all implementation files and Progress Report 5. |
-
+| Mar 24 | 2 | Applied UI/UX enhancements across the platform. Improved visual consistency of challenge cards, refined spacing and typography on the SQLi and XSS module pages, and updated button styles for better usability. |
+| Mar 25 | 1.5 | Continued UI/UX refinements. Improved mobile responsiveness on the profile tracker page and ensured the navbar fragment renders consistently across all module pages. Committed all changes to GitHub. |
+| Mar 26 | 1.5 | Performed functional testing across all challenge modules. Verified payload validation, Explainer reveal behaviour, and progress persistence for SQLi, XSS, CSRF, and IDOR modules. |
+| Mar 27 | 2 | Friday team meeting with Allwyn. Reviewed remaining tasks before final submission, aligned on report writing responsibilities, and confirmed the UAT test plan. |
+| Mar 28 | 1.5 | Saturday team meeting with Allwyn. Reviewed each other's module implementations, confirmed all challenge levels work end-to-end, and divided final report sections for writing. |
+| Mar 29 | 1.5 | Continued testing — focused on the file upload and broken authentication modules. Identified and fixed a minor UI issue where the success feedback message was overlapping the Explainer section on smaller viewports. |
+| Mar 31 | 2 | Began writing the final report. Drafted the Introduction, Summary, and Changes to Proposal sections. |
+| Apr 1 | 2 | Continued final report writing. Drafted the Implemented Features section for all modules. Added screenshot and code snippet placeholders throughout. |
+| Apr 2 | 2 | Drafted the Evaluation, Reflections, and Concluding Remarks sections. Reviewed and updated the AI Use section to reflect all tools used across the full term. |
+| Apr 4 | 2 | Performed UAT testing across all six challenge modules. Verified all accepted payloads produce correct success responses and Explainer reveals. Logged remaining issues for final fix. |
+| Apr 5 | 2 | Applied final bug fixes identified during UAT testing. Committed all changes to the main branch on GitHub. |
+| Apr 7 | 2 | Updated the GitHub README with project description, installation instructions. Verified the repository structure is clean and committed the final check-in. |
+| Apr 8 | 2 | Reviewed and rehearsed the presentation slides. Confirmed demo responsibilities with Allwyn and prepared talking points for the defense Q&A. |
 
